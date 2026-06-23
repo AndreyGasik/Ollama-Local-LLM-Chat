@@ -1,3 +1,11 @@
+<img width="1222" height="856" alt="5" src="https://github.com/user-attachments/assets/1574dab6-4751-42e4-82a9-32ca1323c514" />
+<img width="1215" height="842" alt="4" src="https://github.com/user-attachments/assets/2b471e47-220b-4b7f-80b6-a6f3bb8884d9" />
+<img width="1202" height="850" alt="3" src="https://github.com/user-attachments/assets/2ddd11cb-59ea-46bd-ae4a-001875287ef4" />
+<img width="1211" height="892" alt="2" src="https://github.com/user-attachments/assets/db5e5da4-2c5a-4112-adc7-1b1857a3bc33" />
+<img width="916" height="833" alt="1" src="https://github.com/user-attachments/assets/c6c6ffaf-a252-44b9-b052-a76031a05702" />
+
+
+
 # Ollama-Local-LLM-Chat
 Local LLM Chat with free internet search, scraping, memory and many other...
 
